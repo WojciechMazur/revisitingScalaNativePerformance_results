@@ -1,0 +1,23 @@
+	Command being timed: "binaries/native-image-2.13/sudoku.SudokuBenchmark 2000 1 003020600900305001001806400008102900700000008006708200002609500800203009005010300 Some(List((A1,4), (A2,8), (A3,3), (A4,9), (A5,2), (A6,1), (A7,6), (A8,5), (A9,7), (B1,9), (B2,6), (B3,7), (B4,3), (B5,4), (B6,5), (B7,8), (B8,2), (B9,1), (C1,2), (C2,5), (C3,1), (C4,8), (C5,7), (C6,6), (C7,4), (C8,9), (C9,3), (D1,5), (D2,4), (D3,8), (D4,1), (D5,3), (D6,2), (D7,9), (D8,7), (D9,6), (E1,7), (E2,2), (E3,9), (E4,5), (E5,6), (E6,4), (E7,1), (E8,3), (E9,8), (F1,1), (F2,3), (F3,6), (F4,7), (F5,9), (F6,8), (F7,2), (F8,4), (F9,5), (G1,3), (G2,7), (G3,2), (G4,6), (G5,8), (G6,9), (G7,5), (G8,1), (G9,4), (H1,8), (H2,1), (H3,4), (H4,2), (H5,5), (H6,3), (H7,7), (H8,6), (H9,9), (I1,6), (I2,9), (I3,5), (I4,4), (I5,1), (I6,7), (I7,3), (I8,8), (I9,2)))"
+	User time (seconds): 3.96
+	System time (seconds): 0.07
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 272712
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 66153
+	Voluntary context switches: 1
+	Involuntary context switches: 24
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
